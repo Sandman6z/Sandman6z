@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 
 https://img.shields.io/badge/UAV-Quadcopter-brightgreen
+https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
