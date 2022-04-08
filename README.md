@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+https://img.shields.io/badge/UAV-Quadcopter-brightgreen
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
