@@ -41,12 +41,12 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 <img src="https://img.shields.io/badge/UAV-Quadcopter-brightgreen?style=social&logo=appveyor" />
 
 
-
+![Drone (cloud) with branch](https://img.shields.io/drone/build/Sandman6z/Pixhawk/2.4.8_v11?style=plastic)
 
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
 
-[![Gayhub](https://img.shields.io/badge/ForgiveDB-HuiZ-brightgreen.svg)](https://github.com/Sandman6z)
-[![Bilibili](https://img.shields.io/badge/ForgiveDB-HuiZ-brightgreen.svg)](https://space.bilibili.com/120363860?spm_id_from=333.1007.0.0)
-[![CSDN](https://img.shields.io/badge/ForgiveDB-HuiZ-brightgreen.svg)](https://blog.csdn.net/Sandman06?spm=1019.2139.3001.5343)
+[![Gayhub](https://img.shields.io/badge/Gayhub-......-Black)](https://github.com/Sandman6z)
+[![CSDN](https://img.shields.io/badge/CSDN-Sandman6z-lightgrey)](https://blog.csdn.net/Sandman06?spm=1019.2139.3001.5343)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Sandman6z-Pink)](https://space.bilibili.com/120363860?spm_id_from=333.1007.0.0)
