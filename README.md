@@ -14,22 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- 
- 网址参数 page_id 是必需的，请使用唯一的字符串来最好地代表您的页面。
-
-我建议您遵循以下page_id规则：
-
-For README.md file, use ${your.username}.${your.repo.id}                      eg: https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
-For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg: https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1
-或者其他任何markdown内容，请给一个唯一的字符串来区分
-
-网址参数left_color和right_color是可选的，您可以通过传递两个参数来自定义徽章颜色。这些值支持颜色名称（如绿色）和十六进制字符串中的 RGB，以标签开头（如 #66ccff）
--->
-
 <!-- https://shields.io/ -->
 
-<!--  -->
 <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /> <img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
 <img height="" width="" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
 <br/>
@@ -59,8 +45,8 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 <br/>
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
-
 <br/>
+
 [![Gayhub](https://img.shields.io/badge/Gayhub-......-Black)](https://github.com/Sandman6z)
 &emsp;
 [![CSDN](https://img.shields.io/badge/CSDN-Sandman6z-lightgrey)](https://blog.csdn.net/Sandman06?spm=1019.2139.3001.5343)
