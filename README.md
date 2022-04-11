@@ -39,8 +39,7 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 <img height="" width="" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
 <br/>
 
-<img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey"/>
-<img src="https://img.shields.io/badge/Keil-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey"/><img src="https://img.shields.io/badge/Keil-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/STM32Cubes'-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey"/>
@@ -55,13 +54,11 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 
 
 ![Drone (cloud) with branch](https://img.shields.io/drone/build/Sandman6z/Pixhawk/2.4.8_v11?style=plastic)
-
-
-
+<br/>
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
 
 
-<br><br/>
+<br/>
 [![Gayhub](https://img.shields.io/badge/Gayhub-......-Black)](https://github.com/Sandman6z)
 &emsp;
 [![CSDN](https://img.shields.io/badge/CSDN-Sandman6z-lightgrey)](https://blog.csdn.net/Sandman06?spm=1019.2139.3001.5343)
