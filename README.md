@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey" />    <img src="https://img.shields.io/badge/Keil-%E2%88%9A-lightgrey" />
 <img src="https://img.shields.io/badge/STM32Cubes'-%E2%88%9A-lightgrey" />
+<img src="https://img.shields.io/badge/51-%E2%88%9A-lightgrey" />
 <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey" />
 <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey" />
 <img src="https://img.shields.io/badge/PCB-%E2%88%9A-lightgrey" />
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/RTOS-%E2%88%9A-lightgrey" />
 <img src="https://img.shields.io/badge/git-%E2%88%9A-lightgrey" />
 <img src="https://img.shields.io/badge/MATLAB-%E2%88%9A-lightgrey" />
+<img src="https://img.shields.io/badge/HTML-%E2%88%9A-lightgrey" />
 <br/>
 
 <img src="https://img.shields.io/badge/NAS-%E2%88%9A-red"/> <img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-red" />
@@ -36,6 +38,11 @@ Here are some ideas to get you started:
 &emsp;
 <img src="https://img.shields.io/badge/Server-%E2%88%9A-red" />
 <img src="https://img.shields.io/badge/RAID-%E2%88%9A-red" />
+<img src="https://img.shields.io/badge/示波器-%E2%88%9A-red"/>
+<img src="https://img.shields.io/badge/万用表-%E2%88%9A-red"/>
+<img src="https://img.shields.io/badge/焊接-%E2%88%9A-red"/>
+&emsp;
+...
 <br/>
 
 <img src="https://img.shields.io/badge/UAV-Quadcopter-brightgreen?style=social&logo=appveyor" />
@@ -46,7 +53,11 @@ Here are some ideas to get you started:
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
 <br/>
+<br/>
+<br/>
 
+<br>You can find me from here:<br/>
+<br/>
 [![Gayhub](https://img.shields.io/badge/Gayhub-......-Black)](https://github.com/Sandman6z)
 &emsp;
 [![CSDN](https://img.shields.io/badge/CSDN-Sandman6z-lightgrey)](https://blog.csdn.net/Sandman06?spm=1019.2139.3001.5343)
