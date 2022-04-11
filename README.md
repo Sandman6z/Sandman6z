@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://shields.io/ -->
-
+<br/>
 <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /> <img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
 <img height="" width="" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
 <br/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 &emsp;
 ...
 <br/>
-
+<br/>
 <img src="https://img.shields.io/badge/UAV-Quadcopter-brightgreen?style=social&logo=appveyor" />
 
 
