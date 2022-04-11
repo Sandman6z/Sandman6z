@@ -28,15 +28,28 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 -->
 <!-- <img ${Sandman6z}.${STM32_cubemx_AI_test} src = "https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge" /> -->
 
-![visitors](https://github.com/Sandman6z/badge?page_id=STM32_cubemx_AI_test&left_color=green&right_color=red)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
+<!-- https://shields.io/ -->
 <!--  -->
 <img src = "https://img.shields.io/badge/dynamic/json?color=brightgreen&label=UAV&prefix=sdf&query=sdfsdf&suffix=sdf&url=www" />
 
 <!--  -->
-
+<img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" />
+<img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
 <img height="" width="" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
+<br/>
+
+<img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/Keil-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/STM32Cubes'-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/PLC-%E2%88%9A-lightgrey"/>
+<br/>
+
+<img src="https://img.shields.io/badge/NAS-%E2%88%9A-lightgrey"/>
 
 <img src="https://img.shields.io/badge/UAV-Quadcopter-brightgreen?style=social&logo=appveyor" />
 
