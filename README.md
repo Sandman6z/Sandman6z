@@ -30,13 +30,11 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 <!-- https://shields.io/ -->
 
 <!--  -->
-<img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" />
-<img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
+<img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /><img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
 <img height="" width="" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
 <br/>
 
-<img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey"/>
-<img src="https://img.shields.io/badge/Keil-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey"/><img src="https://img.shields.io/badge/Keil-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/STM32Cubes'-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey"/>
