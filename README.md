@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- https://shields.io/ -->
 <br/>
-<img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /> <img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
+
+<img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /><img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
 <img height="" width="" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
 <br/>
 
@@ -49,6 +50,8 @@ Here are some ideas to get you started:
 
 
 ![Drone (cloud) with branch](https://img.shields.io/drone/build/Sandman6z/Pixhawk/2.4.8_v11)
+<br/>
+
 <br/>
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
