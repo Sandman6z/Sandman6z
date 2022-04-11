@@ -26,12 +26,8 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 
 网址参数left_color和right_color是可选的，您可以通过传递两个参数来自定义徽章颜色。这些值支持颜色名称（如绿色）和十六进制字符串中的 RGB，以标签开头（如 #66ccff）
 -->
-<!-- <img ${Sandman6z}.${STM32_cubemx_AI_test} src = "https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge" /> -->
-
 
 <!-- https://shields.io/ -->
-<!--  -->
-<img src = "https://img.shields.io/badge/dynamic/json?color=brightgreen&label=UAV&prefix=sdf&query=sdfsdf&suffix=sdf&url=www" />
 
 <!--  -->
 <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" />
@@ -44,9 +40,12 @@ For Issue body,     use ${your.username}.${your.repo.id}.issue.${issue.id}    eg
 <img src="https://img.shields.io/badge/STM32Cubes'-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey"/>
-<img src="https://img.shields.io/badge/-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/PCB-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-lightgrey"/>
 <img src="https://img.shields.io/badge/PLC-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/RTOS-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/git-%E2%88%9A-lightgrey"/>
+<img src="https://img.shields.io/badge/MATLAB-%E2%88%9A-lightgrey"/>
 <br/>
 
 <img src="https://img.shields.io/badge/NAS-%E2%88%9A-lightgrey"/>
