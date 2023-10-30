@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <br/>
 <p>
   <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /><img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
-  <img height="" width="" src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange" />
+  <img height="" width="" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" />
 <br/></p>
 
+---
 
 <p dir="auto">
   <img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey" />
