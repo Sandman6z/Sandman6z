@@ -59,13 +59,17 @@ Here are some ideas to get you started:
 ![Drone (cloud) with branch](https://img.shields.io/drone/build/Sandman6z/Pixhawk/2.4.8_v11)
 <br/>
 
+---
+
 <br/>
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
 <br/>
 <br/>
 <br/>
+
 ---
+
 <p>
   <br>
     You can find me from here:
