@@ -60,6 +60,15 @@ Here are some ideas to get you started:
 <br/>
 
 ---
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
+---
+---
 
 <br/>
 
