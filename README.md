@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /><img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
   <img height="" width="" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" />
-<br/></p>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  
+  <br/>
+  
+  <br/></p>
 
 ---
 
