@@ -61,10 +61,11 @@ Here are some ideas to get you started:
     <li>
         <span class="group-label">WEB:</span>
         <ul class="badge-list">
-            <img src="https://img.shields.io/badge/HTML-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/CSS-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/QT-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/HBuilder-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=orange" />
+            <img src="https://img.shields.io/badge/CSS-3-orange?style=for-the-badge&logo=css3&logoColor=blue" />
+            <img src="https://img.shields.io/badge/Qt-6-orange?style=for-the-badge&logo=qt&logoColor=orange" />
+            <img src="https://img.shields.io/badge/PyQt-3.10-orange?style=for-the-badge&logo=python&logoColor=orange" />
+            <img src="https://img.shields.io/badge/HBuilder-5-orange?style=for-the-badge&logo=html5&logoColor=orange" />
         </ul>
     </li>
     <li>
@@ -81,9 +82,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-%E2%88%9A-orange?style=for-the-badge&logo=c&logoColor=orange" />
   <img src="https://img.shields.io/badge/Python-3.12-orange?style=for-the-badge&logo=python&logoColor=orange" />
   <img src="https://img.shields.io/badge/Qt-5-orange?style=for-the-badge&logo=qt&logoColor=orange" />
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=orange" />
-  <img src="https://img.shields.io/badge/CSS-3-orange?style=for-the-badge&logo=css3&logoColor=orange" />
-</p>
+  </p>
 
   <img src="https://img.shields.io/badge/NAS-%E2%88%9A-red"/> 
   <img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-red" />
