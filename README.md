@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 -->
 <!-- https://shields.io/ -->
 
+<!--
+勾选符号（✔）： %E2%88%9A
+交叉符号（✘）： %E2%9C%98 
+-->
+
 <p dir="auto">
 <ul>
     <li>
@@ -38,24 +43,28 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/VSCode-%E2%88%9A-darkblue" />  
             <img src="https://img.shields.io/badge/STM32Cubes-%E2%88%9A-blue" />
             <img src="https://img.shields.io/badge/Keil-%E2%88%9A-green" />
+            <img src="https://img.shields.io/badge/Pycharm-%E2%88%9A-darkgray" />  
+            <img src="https://img.shields.io/badge/Eclipse-%E2%88%9A-darkblue" />
         </ul>
     </li>
     <li>
         <span class="group-label">MCU & MPU & FPGA:</span>
         <ul class="badge-list">
-            <img src="https://img.shields.io/badge/STM32-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/51-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/STM32-%E2%88%9A-lightblue" />
+            <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-blue" />
+            <img src="https://img.shields.io/badge/51-%E2%88%9A-red" />
+            <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgreen" />
+            <img src="https://img.shields.io/badge/Atmel-%E2%88%9A-black" />
         </ul>
     </li>
     <li>
         <span class="group-label">OS:</span>
         <ul class="badge-list">
-            <img src="https://img.shields.io/badge/Linux-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/Linux-%E2%88%9A-lightorange" />
             <img src="https://img.shields.io/badge/RTOS-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/UNIX-%E2%88%9A-lightgrey" />
-            <img src="https://img.shields.io/badge/Windows-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/UNIX-%E2%88%9A-black" />
+            <img src="https://img.shields.io/badge/Windows-%E2%88%9A-lightblue" />
+            <img src="https://img.shields.io/badge/WSL 2-%E2%88%9A-lightgrey" />
         </ul>
     </li>
     <li>
@@ -78,12 +87,10 @@ Here are some ideas to get you started:
 </ul>
 </p>
 
-<p dir="auto">
-  <img src="https://img.shields.io/badge/C-%E2%88%9A-orange?style=for-the-badge&logo=c&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Python-3.12-orange?style=for-the-badge&logo=python&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Qt-5-orange?style=for-the-badge&logo=qt&logoColor=orange" />
-  </p>
+---
 
+<p dir="auto">
+  
   <img src="https://img.shields.io/badge/NAS-%E2%88%9A-red"/> 
   <img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-red" />
   &emsp;
@@ -95,16 +102,15 @@ Here are some ideas to get you started:
   &emsp;
   ...
 </p>
-  
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/UAV-Quadcopter-brightgreen?style=social&logo=appveyor" />
 
-
-![Drone (cloud) with branch](https://img.shields.io/drone/build/Sandman6z/Pixhawk/2.4.8_v11)
-<br/>
+<p dir="auto">
+    <img src="https://img.shields.io/badge/UAV-Quadcopter-brightgreen?style=social&logo=appveyor" />
+    <br/>
+    <img src="https://img.shields.io/drone/build/Sandman6z/Pixhawk/2.4.8_v11" alt="Drone (cloud) with branch">  
+</p>
 
 ---
+
 <br/>
 
 <!--START_SECTION:waka-->
