@@ -77,14 +77,16 @@ Here are some ideas to get you started:
 </ul>
 </p>
 
-<p>
-  <p>
-  <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" />
-  <img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
-  <img height="" width="" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" />
+<p dir="auto">
+  <img src="https://img.shields.io/badge/C-%E2%88%9A-orange?style=for-the-badge&logo=c&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Python-3.12-orange?style=for-the-badge&logo=python&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Qt-5-orange?style=for-the-badge&logo=qt&logoColor=orange" />
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CSS-3-orange?style=for-the-badge&logo=css3&logoColor=orange" />
 </p>
-  <img src="https://img.shields.io/badge/NAS-%E2%88%9A-red"/> <img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-red" />
-  <img src="https://img.shields.io/badge/EMCU-%E2%88%9A-red" />
+
+  <img src="https://img.shields.io/badge/NAS-%E2%88%9A-red"/> 
+  <img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-red" />
   &emsp;
   <img src="https://img.shields.io/badge/Server-%E2%88%9A-red" />
   <img src="https://img.shields.io/badge/RAID-%E2%88%9A-red" />
@@ -117,6 +119,9 @@ No activity tracked
 <br/>
 
 ---
+
+
+
 ---
 <p>
 <br/>
