@@ -111,37 +111,14 @@ Here are some ideas to get you started:
 
 ---
 
-<br/>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<br/>
-
----
-
-
-
----
 <p>
-<br/>
-<div align="left">
+    
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
-</div>
-  <br/>
+
 </p>
 <p>
-<br/>
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </p>
-
-<br/>
-<br/>
 
 ---
 
