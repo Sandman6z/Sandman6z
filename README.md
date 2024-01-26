@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+
+
+
+
+# Hi there 👋
 
 <!--
 **Sandman6z/Sandman6z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,35 +21,68 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://shields.io/ -->
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" /><img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
-  <img height="" width="" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" />
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-  
-  <br/>
-  
-  <br/></p>
-
----
 
 <p dir="auto">
-  <img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/Keil-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/STM32Cubes'-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/51-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/PCB-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/PLC-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/RTOS-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/git-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/MATLAB-%E2%88%9A-lightgrey" />
-  <img src="https://img.shields.io/badge/HTML-%E2%88%9A-lightgrey" />
-<br></p>
+<ul>
+    <li>
+        <span class="group-label">Hardware Design:</span>
+        <ul class="badge-list">
+            <img src="https://img.shields.io/badge/AltiumDesigner-%E2%88%9A-lightgreen" />
+            <img src="https://img.shields.io/badge/SPICE-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/Quartus-%E2%88%9A-lightblue" />
+        </ul>
+    </li>
+    <li>
+        <span class="group-label">Embeded IDE:</span>
+        <ul class="badge-list">
+            <img src="https://img.shields.io/badge/VSCode-%E2%88%9A-darkblue" />  
+            <img src="https://img.shields.io/badge/STM32Cubes-%E2%88%9A-blue" />
+            <img src="https://img.shields.io/badge/Keil-%E2%88%9A-green" />
+        </ul>
+    </li>
+    <li>
+        <span class="group-label">MCU & MPU & FPGA:</span>
+        <ul class="badge-list">
+            <img src="https://img.shields.io/badge/STM32-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/FPGA-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/51-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/Arduino-%E2%88%9A-lightgrey" />
+        </ul>
+    </li>
+    <li>
+        <span class="group-label">OS:</span>
+        <ul class="badge-list">
+            <img src="https://img.shields.io/badge/Linux-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/RTOS-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/UNIX-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/Windows-%E2%88%9A-lightgrey" />
+        </ul>
+    </li>
+    <li>
+        <span class="group-label">WEB:</span>
+        <ul class="badge-list">
+            <img src="https://img.shields.io/badge/HTML-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/CSS-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/QT-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/HBuilder-%E2%88%9A-lightgrey" />
+        </ul>
+    </li>
+    <li>
+        <span class="group-label">Tools:</span>
+        <ul class="badge-list">
+            <img src="https://img.shields.io/badge/Git-%E2%88%9A-lightgrey" />
+            <img src="https://img.shields.io/badge/MATLAB-%E2%88%9A-lightgrey" />
+        </ul>
+    </li>
+</ul>
+</p>
 
 <p>
+  <p>
+  <img src="https://img.shields.io/badge/C-%E2%88%9A-yellowgreen" />
+  <img src="https://img.shields.io/badge/QT-%E2%88%9A-yellowgreen" />
+  <img height="" width="" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange" />
+</p>
   <img src="https://img.shields.io/badge/NAS-%E2%88%9A-red"/> <img src="https://img.shields.io/badge/3Dprint-%E2%88%9A-red" />
   <img src="https://img.shields.io/badge/EMCU-%E2%88%9A-red" />
   &emsp;
@@ -79,11 +118,18 @@ No activity tracked
 
 ---
 ---
-
+<p>
 <br/>
-
+<div align="left">
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
+</div>
+  <br/>
+</p>
+<p>
 <br/>
+<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+</p>
+
 <br/>
 <br/>
 
