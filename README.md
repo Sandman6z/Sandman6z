@@ -1,23 +1,9 @@
-<!--
-**Sandman6z/Sandman6z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&duration=2000&pause=1000&color=00aeec&center=true&vCenter=true&width=435&lines=Hi!+Welcome+to+my+Github!;I've+tossed+a+lot+of+things" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- https://shields.io/ -->
-
-<!--
-勾选符号（✔）： %E2%88%9A
-交叉符号（✘）： %E2%9C%98
--->
+## 🚀 Technology Stack
 
 <p dir="auto">
 <ul>
@@ -56,7 +42,7 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/HBuilder-%E2%88%9A-red" />
         </ul>
     </li>
-        <li>
+    <li>
         <span class="group-label">Programming Language:</span>
         <ul class="badge-list">
             <img src="https://img.shields.io/badge/C-%E2%88%9A-orange" />
@@ -74,7 +60,7 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/SVN-%E2%88%9A-lightgrey" />
         </ul>
     </li>
-        <li>
+    <li>
         <span class="group-label">Others:</span>
         <ul class="badge-list">
             <img src="https://img.shields.io/badge/NAS-%E2%88%9A-red"/> 
@@ -86,25 +72,25 @@ Here are some ideas to get you started:
 </ul>
 </p>
 
-## Project Own
+
+## 🌟 GitHub Repo
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandman6z&layout=compact&theme=radical&hide=html,css,php,scss,jupyter%20notebook" alt="Top Languages"/>
+</p>
+
+<div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Sandman6z/SSD_Udisk_Tool_APP&type=Date)](https://www.star-history.com/#Sandman6z/SSD_Udisk_Tool_APP&Date)
 
----
+</div>
 
-<p>    
-![Sandman6z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
+
+## 🔗 Contact me
+
+<p align="center">
+  <a href="https://github.com/Sandman6z"><img src="https://img.shields.io/badge/GitHub-Sandman6z-181717" alt="GitHub"/></a>&nbsp;
+  <a href="https://blog.csdn.net/Sandman06"><img src="https://img.shields.io/badge/CSDN-Sandman6z-lightgrey" alt="CSDN"/></a>&nbsp;
+  <a href="https://space.bilibili.com/120363860"><img src="https://img.shields.io/badge/Bilibili-Sandman6z-Pink" alt="Bilibili"/></a>
 </p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandman6z&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-</p>
-
----
-
-## You can find me from here:
-
-  [![Gayhub](https://img.shields.io/badge/Gayhub-......-Black)](https://github.com/Sandman6z)
-  &emsp;
-  [![CSDN](https://img.shields.io/badge/CSDN-Sandman6z-lightgrey)](https://blog.csdn.net/Sandman06?spm=1019.2139.3001.5343)
-  &emsp;
-  [![Bilibili](https://img.shields.io/badge/Bilibili-Sandman6z-Pink)](https://space.bilibili.com/120363860?spm_id_from=333.1007.0.0)
