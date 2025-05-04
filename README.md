@@ -90,7 +90,8 @@
 ## 🔗 Contact me
 
 <p align="center">
-  <a href="https://github.com/Sandman6z"><img src="https://img.shields.io/badge/GitHub-Sandman6z-181717" alt="GitHub"/></a>&nbsp;
+  <a href="https://github.com/Sandman6z"><img src="https://img.shields.io/badge/GayHub-Sandman6z-262c36" alt="GitHub"/></a>&nbsp;
+  <a href="https://gitee.com/sandman6z"><img src="https://img.shields.io/badge/Gitee-Sandman6z-c71d23" alt="Gitee"/></a>&nbsp;
   <a href="https://blog.csdn.net/Sandman06"><img src="https://img.shields.io/badge/CSDN-Sandman6z-lightgrey" alt="CSDN"/></a>&nbsp;
-  <a href="https://space.bilibili.com/120363860"><img src="https://img.shields.io/badge/Bilibili-Sandman6z-Pink" alt="Bilibili"/></a>
+  <a href="https://space.bilibili.com/120363860"><img src="https://img.shields.io/badge/Bilibili-Sandman6z-00aeec" alt="Bilibili"/></a>
 </p>
