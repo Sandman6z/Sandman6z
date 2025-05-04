@@ -88,11 +88,9 @@ Here are some ideas to get you started:
 
 ## Project Own
 
-<p dir="auto">
-    <img src="https://img.shields.io/badge/UAV-Quadcopter-brightgreen?style=social&logo=appveyor" />
-    <br/>
-    <img src="https://img.shields.io/drone/build/Sandman6z/Pixhawk/2.4.8_v11" alt="Drone (cloud) with branch">  
-</p>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Sandman6z/SSD_Udisk_Tool_APP&type=Date)](https://www.star-history.com/#Sandman6z/SSD_Udisk_Tool_APP&Date)
 
 ---
 
