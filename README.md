@@ -88,16 +88,12 @@ Here are some ideas to get you started:
 
 ## Project Own
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Sandman6z/SSD_Udisk_Tool_APP&type=Date)](https://www.star-history.com/#Sandman6z/SSD_Udisk_Tool_APP&Date)
 
 ---
 
-<p>
-    
+<p>    
 ![Sandman6z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandman6z&show_icons=true&theme=radical)
-
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandman6z&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
